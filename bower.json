@@ -1,0 +1,17 @@
+{
+    "name": "gabriela-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Eduardo Tunni"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/gabriela-bower.git"
+    },
+    "description": "Gabriela font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
